@@ -1,2 +1,2 @@
 # os-demo-this-
-this is for showing demo for os workshop
+made changes in readme file
